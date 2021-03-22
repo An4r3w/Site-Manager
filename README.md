@@ -13,9 +13,9 @@ Spawns the Site Manager!
 | `spawn_inventory` | list | The inventory of the manager | Medkit, KeycardFacilityManager |
 
 # Commands
-| Name | Usage | Aliases | Description |
+| Name | Usage | Aliases | Description | Permission |
 | --- | --- | --- | --- |
-| `spawnmanager` | spawnmanager {id} | manager, managerspawn | Spawns the facility Manager |
+| `spawnmanager` | spawnmanager {id} | manager, managerspawn | Spawns the facility Manager | manager.spawn |
 
 # Installation
 
