@@ -14,7 +14,7 @@ Spawns the Site Manager!
 
 # Commands
 | Name | Usage | Aliases | Description | Permission |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | `spawnmanager` | spawnmanager {id} | manager, managerspawn | Spawns the facility Manager | manager.spawn |
 
 # Installation
